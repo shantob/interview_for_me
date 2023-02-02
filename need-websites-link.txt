@@ -1,0 +1,2 @@
+https://packagist.org/packages/barryvdh/laravel-dompdf -for pdf
+https://image.intervention.io/v2/introduction/installation#integration-in-laravel  -for image
